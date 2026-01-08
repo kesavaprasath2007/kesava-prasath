@@ -1,0 +1,7 @@
+{
+  "name": "ATMOS - Jaya Shakthi Engineering Edition",
+  "description": "Customized weather intelligence platform for Jaya Shakthi Engineering students, providing real-time forecasts and campus-specific travel advice.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
